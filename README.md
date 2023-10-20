@@ -1,2 +1,2 @@
 # Udemy'deki C programlama konularıyla ilgili karışık çalışmalar
-Udemy'deki c programlama konularıyla kodlamalar
+Udemy'deki c programlama konularıyla kodlamalar.
